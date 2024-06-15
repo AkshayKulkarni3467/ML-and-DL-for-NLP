@@ -1,0 +1,7 @@
+SVM/data/
+CNN/augmented_data/
+CNN/brain_tumor_dataset/
+CNN/yes/
+CNN/no/
+CNN/tumorous_and_nontumorous/
+CNN/model_weights/
