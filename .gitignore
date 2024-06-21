@@ -6,3 +6,4 @@ CNN/data/no/
 CNN/data/tumorous_and_nontumorous/
 CNN/model_weights/
 RNN/data/
+AutoEncoder/model/
